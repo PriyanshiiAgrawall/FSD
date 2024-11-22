@@ -1,0 +1,16 @@
+#sem {
+    background-color: bisque;
+    color: darkturquoise;
+}
+
+h1 {
+    font-weight: 500;
+    background-color: forestgreen;
+    color: indigo
+}
+
+h2 {
+    font-style: italic;
+    background: gold;
+    color: silver;
+}
